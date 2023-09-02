@@ -75,7 +75,7 @@
 <div style="display:flex;" align="left">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-amin-b&theme=monokai&show_icons=true)<br/><br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-amin-b&layout=compact&theme=monokai)](https://github.com/m-amin-b/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-amin-b&layout=compact&theme=monokai)
   
 <div/>
 

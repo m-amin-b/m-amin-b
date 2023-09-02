@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/m.amin.b7official">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="t.me/m_amin_b7official">
+    <a href="https://t.me/m_amin_b7official">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
@@ -33,7 +33,7 @@
   <img src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg" width="80%" /> <br/><br/>
 
   <!-- coder gif -->
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300"/>
+  <!-- <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300"/> -->
 
   <!-- Total Contributions  -->
   ![](https://github-readme-streak-stats.herokuapp.com/?user=m-amin-b&theme=monokai&hide_border=false)<br/>

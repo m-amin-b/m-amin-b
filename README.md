@@ -3,12 +3,10 @@
 
   <!-- gif -->
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300"/>
     <!-- <img src="https://cdn.dribbble.com/users/1158097/screenshots/4591473/developer-gif.gif" width="400"/> -->
-  </div>
+  </div> <br/>
 
-  
-  
   <!-- social media -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/m-amin-b-475614229">
@@ -16,6 +14,9 @@
     </a>
     <a href="https://www.instagram.com/m.amin.b7official">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="t.me/m_amin_b7official">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
 
@@ -26,7 +27,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-  <img src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg" width="80%" /> <br/>
+  <img src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg" width="80%" /> <br/><br/>
+
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300"/>
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=m-amin-b&theme=dark&hide_border=false)<br/>
   

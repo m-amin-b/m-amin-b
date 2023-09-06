@@ -29,9 +29,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-  <!-- picture -->
-  <img src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg" width="80%" /> <br/><br/>
-
   <!-- coder gif -->
   <!-- <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300"/> -->
 
@@ -58,36 +55,19 @@
 
 <!--  Languages and Tools -->
 <h2 align="left">:hammer_and_wrench: Languages and Tools :</h2>
-<div style="display:flex; align-items:center" align="left">
 
-  <div style="display:flex; align-items:center" align="left">
-    <h4>👨‍💻 Programming and Markup Languages</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" />&nbsp;
-  </div>
+  #### 👨‍💻 Programming and Markup Languages ####
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
     
-  <div style="display:flex; align-items:center" align="left">
-    <h4>🧰 Frameworks and Libraries</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45px" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45px" />&nbsp;
-  </div>
+  #### 🧰 Frameworks and Libraries ####
+  [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev)
     
-  <div style="display:flex; align-items:center" align="left">
-  <h4>🗄️ Databases and Cloud Hosting</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"  width="50px" />&nbsp;
-  </div>
+  #### 🗄️ Databases and Cloud Hosting ####
+  [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongo)](https://skillicons.dev)
     
-  <div style="display:flex; align-items:center" align="left">
-    <h4>💻 Software and Tools</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45px" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45px" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45px" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45px" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="45px" />&nbsp;
-  </div>
+  #### 💻 Software and Tools ####
+  [![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,webpack)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45px" />&nbsp;
     
 </div><br/>
 

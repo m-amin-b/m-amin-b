@@ -64,8 +64,7 @@
   [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongo)](https://skillicons.dev)
     
   #### 🖥️ Software and Tools ####
-  [![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,webpack)](https://skillicons.dev)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45px" />&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,webpack,npm)](https://skillicons.dev)
     
 </div><br/>
 

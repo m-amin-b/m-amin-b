@@ -12,10 +12,10 @@
 
   <!-- social media -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/m-amin-b-475614229">
+    <a href="https://www.linkedin.com/in/mohammad-amin-bagherzadeh">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/m.amin.b7official">
+    <a href="https://www.instagram.com/amin7.official">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://t.me/m_amin_b7official">
@@ -47,7 +47,7 @@
   
   - :books: i'm currently learning **`js`**.
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/m.amin.b-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-amin-b-475614229)
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/m.amin.b-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-bagherzadeh)
 
 </div><br/>
 
@@ -58,13 +58,13 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
     
   #### 🧰 Frameworks and Libraries ####
-  [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue,tailwind,sass)](https://skillicons.dev)
     
   #### 🗄️ Databases and Cloud Hosting ####
   [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongo)](https://skillicons.dev)
     
   #### 🖥️ Software and Tools ####
-  [![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,webpack,npm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,webpack,pinia,npm,postman)](https://skillicons.dev)
     
 </div><br/>
 
